@@ -1,5 +1,11 @@
+//esta url es sólo para el primer día
 /*Accesos a los labs*/
 https://labs.azure.com/register/7y1ciids8
+
+
+//esta url es a partir del segundo día.
+/*URL para los siguientes días*/
+https://labs.azure.com/ 
 
 
 
@@ -12,6 +18,8 @@ https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi
 
 /*enlace Visual studio code*/
 https://code.visualstudio.com/download
+
+
 
 
 /Capítulo3*/

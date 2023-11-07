@@ -15,4 +15,3 @@ https://code.visualstudio.com/download
 
 
 /Capítulo3*/
-Otros enlaces dentro de este archivo

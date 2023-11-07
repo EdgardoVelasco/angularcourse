@@ -24,3 +24,6 @@ https://code.visualstudio.com/download
 
 /Capítulo3*/
 Aqui estarán los enlaces del capítulo 3
+
+/*Documentación typescript*/
+https://www.typescriptlang.org/docs/

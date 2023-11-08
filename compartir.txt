@@ -1,3 +1,4 @@
+Día 1
 //esta url es sólo para el primer día
 /*Accesos a los labs*/
 https://labs.azure.com/register/7y1ciids8
@@ -31,3 +32,10 @@ Aqui estarán los enlaces del capítulo 3
 
 /*Documentación typescript*/
 https://www.typescriptlang.org/docs/
+
+
+
+
+/*Instalar la nueva versión de angular CLI*/
+npm uninstall -g @angular/cli
+

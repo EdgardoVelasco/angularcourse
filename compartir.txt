@@ -9,7 +9,8 @@ https://labs.azure.com/register/7y1ciids8
 https://labs.azure.com/ 
 
 
-
+----------------------
+Día 2
 /*Capítulo2*/
 /*enlace documentación angular*/
 https://angular.io/docs
@@ -23,7 +24,8 @@ https://code.visualstudio.com/download
 
 
 
-
+-------------------------------
+Día 3
 /Capítulo3*/
 Aqui estarán los enlaces del capítulo 3
 
@@ -31,7 +33,7 @@ Aqui estarán los enlaces del capítulo 3
 https://www.typescriptlang.org/docs/
 
 
-
+/*-*-*-*-*Opcional-*-*-*-*-**/
 
 /*Instalar la nueva versión de angular CLI*/
 
@@ -48,4 +50,4 @@ npm install -g @angular/cli
 ng version
 
 
-
+------------------------------------------

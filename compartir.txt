@@ -18,9 +18,6 @@ https://angular.io/docs
 https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi
 
 
-/*Actualización node js para la nueva versión*/
-https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
-
 /*enlace Visual studio code*/
 https://code.visualstudio.com/download
 
@@ -37,5 +34,9 @@ https://www.typescriptlang.org/docs/
 
 
 /*Instalar la nueva versión de angular CLI*/
+
+/*Actualización node js para la nueva versión*/
+https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
+
 npm uninstall -g @angular/cli
 

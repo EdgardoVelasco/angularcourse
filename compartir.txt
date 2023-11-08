@@ -40,7 +40,7 @@ https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
 
 1. npm uninstall -g @angular/cli
 2. Instalar la nueva versión de node
-3. validar que la versión sea la 18.13 usando el siguiente comando:
+3. validar que la versión sea la 18.13   usando el siguiente comando:
 node --version
 4. Volver a instalar Angular CLI usando el siguiente comando:
 npm install -g @angular/cli

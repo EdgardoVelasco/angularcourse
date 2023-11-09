@@ -33,6 +33,13 @@ Aqui estarán los enlaces del capítulo 3
 https://www.typescriptlang.org/docs/
 
 
+
+
+
+---------------------------------------------------
+Día 4
+
+
 /*-*-*-*-Regresar a la versión anterior-*-*-*-*-**/
 
 
@@ -52,4 +59,13 @@ npm install -g @angular/cli@16.0.0
 ng version
 
 
+
+Enlace de la version 17  beta de Angular
+https://angular.dev/
+
 ------------------------------------------
+
+
+
+
+

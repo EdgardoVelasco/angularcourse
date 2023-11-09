@@ -33,20 +33,22 @@ Aqui estarán los enlaces del capítulo 3
 https://www.typescriptlang.org/docs/
 
 
-/*-*-*-*-*Opcional-*-*-*-*-**/
+/*-*-*-*-Regresar a la versión anterior-*-*-*-*-**/
 
-/*Instalar la nueva versión de angular CLI*/
 
-/*Actualización node js para la nueva versión*/
-https://nodejs.org/dist/v18.13.0/node-v18.13.0-x64.msi
+
+/*Angular versión 16*/
+https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi
+
 
 1. npm uninstall -g @angular/cli
-2. Instalar la nueva versión de node
-3. validar que la versión sea la 18.13   usando el siguiente comando:
+2. desinstalar node 18
+3. instalar la versión 16.14 de node
+4. validar que la versión sea la 16.14   usando el siguiente comando:
 node --version
-4. Volver a instalar Angular CLI usando el siguiente comando:
-npm install -g @angular/cli
-5. Validar que este instalado usando el comando:
+5. Volver a instalar Angular CLI usando el siguiente comando:
+npm install -g @angular/cli@16.0.0
+6. Validar que este instalado usando el comando:
 ng version
 
 

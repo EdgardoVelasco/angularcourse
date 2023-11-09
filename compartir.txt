@@ -68,7 +68,17 @@ https://angular.dev/
 https://getbootstrap.com/
 
 
+#-*-*-*-*-*Si se quiere usar los proyectos que están en el repositorio, 
+se debe ejecutar el comando npm install antes de usar el comando ng serve-*-*-*-*
+
 ------------------------------------------
+
+
+Día 5
+
+
+
+------------------------------------------------------
 
 
 

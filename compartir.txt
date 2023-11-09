@@ -64,7 +64,7 @@ Enlace de la version 17  beta de Angular
 https://angular.dev/
 
 
--*-*-*Enlace para la documentación de boostrap-*-*-*
+-*-*-*Enlace para la documentación de bootstrap-*-*-*
 https://getbootstrap.com/
 
 

@@ -80,6 +80,20 @@ Día 5
 
 ------------------------------------------------------
 
+/*Código html del componente body del capítulo 5*/
+<br>
+<br>
+<div class="container">
+    <h1>Contador</h1>
+    <br>
+    <div class="container-sm">
+        <h2>0</h2>
+        <input placeholder="número">
+        <br><br>
+        <button class="btn btn-primary">decremento</button>
+        <button class="btn btn-primary">incremento</button>
+    </div>
+</div>
 
 
 

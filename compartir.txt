@@ -106,3 +106,49 @@ Día 5
 </nav>
 
 
+
+/*-*-*html del body component capítulo6-*-*-**/
+<br><br>
+<div class="container">
+    <h2>App Vocales</h2> <br><br>
+    <table>
+        <tr>
+            <td> <!--columna1-->
+                <input placeholder="nombre"><br><br>
+                <button>Insertar</button><br><br>
+                <div class="container-sm">
+                  <!--ngIf-->
+                </div>
+            </td><!--fin columna1-->
+
+            <td><!--columna2-->
+                <!--vocales-->
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Vocales</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>dato Prueba</td></tr>
+                    </tbody>
+                </table>
+            </td><!--fin columna2-->
+            <td> <!--columna3-->
+                <!--No Vocales-->
+                <table>
+                    <thead>
+                        <tr>
+                            <th>No Vocales</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>dato Prueba</td></tr>
+                    </tbody>
+                </table>
+            </td><!--fin columna3-->
+        </tr>
+    </table>
+</div>
+
+

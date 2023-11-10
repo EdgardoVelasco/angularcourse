@@ -178,5 +178,17 @@ Día 5
 
 
 
+-*-*-*-*-*-* Nota importante: si se quieren usar los proyectos que se 
+realizarón durante la clase es importante usar el comando npm install antes del 
+comando ng serve
+
+
+
+
+----------------------------------
+Día 6
+
+
+
 
 

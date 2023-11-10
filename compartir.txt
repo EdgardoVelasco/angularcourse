@@ -97,4 +97,12 @@ Día 5
 
 
 
+/*html navbar capitulo 6*/
+<!--nav bar de mi app-->
+<nav class="navbar bg-success">
+  <div class="container-fluid">
+     <a class="navbar-brand data">CitiBanamex</a>
+  </div>
+</nav>
+
 

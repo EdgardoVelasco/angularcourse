@@ -109,21 +109,23 @@ Día 5
 
 /*-*-*html del body component capítulo6-*-*-**/
 <br><br>
-<div class="container">
+<div class="container container1">
     <h2>App Vocales</h2> <br><br>
-    <table>
+    <table class="table">
         <tr>
             <td> <!--columna1-->
-                <input placeholder="nombre"><br><br>
-                <button>Insertar</button><br><br>
+                <input class="form-control entrada" placeholder="nombre"><br><br>
+                <button class="btn btn-primary" type="button">Insertar</button><br><br>
                 <div class="container-sm">
                   <!--ngIf-->
+                  <a>Prueba</a>
                 </div>
             </td><!--fin columna1-->
 
             <td><!--columna2-->
                 <!--vocales-->
-                <table>
+             <div class="container-sm">
+                <table class="table table-bordered format-table">
                     <thead>
                         <tr>
                             <th>Vocales</th>
@@ -133,10 +135,13 @@ Día 5
                         <tr><td>dato Prueba</td></tr>
                     </tbody>
                 </table>
+              </div>
             </td><!--fin columna2-->
+
             <td> <!--columna3-->
                 <!--No Vocales-->
-                <table>
+              <div class="container-sm">
+                <table class="table table-bordered format-table">
                     <thead>
                         <tr>
                             <th>No Vocales</th>
@@ -146,9 +151,32 @@ Día 5
                         <tr><td>dato Prueba</td></tr>
                     </tbody>
                 </table>
+              </div>
             </td><!--fin columna3-->
         </tr>
     </table>
 </div>
+
+
+#-*-*-*-*CSS del body component capitulo6-*-*-*
+
+.container1{
+    margin-left: 15%;
+}
+
+.entrada{
+    width: 200px;
+}
+
+.format-table{
+    text-align: center;
+    width: 70%;
+    margin-bottom: 50%;
+}
+
+
+
+
+
 
 

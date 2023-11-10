@@ -77,9 +77,6 @@ se debe ejecutar el comando npm install antes de usar el comando ng serve-*-*-*-
 Día 5
 
 
-
-------------------------------------------------------
-
 /*Código html del componente body del capítulo 5*/
 <br>
 <br>

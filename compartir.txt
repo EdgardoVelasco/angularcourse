@@ -225,4 +225,6 @@ http://www.patitonet.com/perros
 https://blog.nubecolectiva.com/los-5-mejores-frameworks-css-para-desarrolladores-en-2020/
 
 
+#-*-*-*-*comando para generar un servicio-*-*-*
+ng generate service services/perros --skip-tests
 

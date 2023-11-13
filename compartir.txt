@@ -185,7 +185,8 @@ comando ng serve
 ----------------------------------
 Día 6
 
-
+#-*-*-*-*Ruta app backend-*
+http://www.patitonet.com/perros
 
 
 

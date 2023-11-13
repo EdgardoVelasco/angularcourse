@@ -249,3 +249,19 @@ export class Perro{
     public get urlImage():string{return this._urlImage;}
 }
 
+
+
+#--*-*-*-*-*Método get perros del servicio-*-*-*
+getPerros():Observable<Perro[]>{
+
+    return this.http
+    .get<any[]>(this._urlWebService)
+    .pipe(timeout(2500), 
+     map(listaJson=>listaJson.map(json=> 
+      new Perro(
+        json.name,
+        json.description,
+        json.maxLife,
+        json.urlImage
+      ))));
+  }

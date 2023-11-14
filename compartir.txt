@@ -273,6 +273,70 @@ Día 7
 
 
 
+/*JSON perros Service*/
+[
+{
+"name": "German Shepard",
+"description": "The German Shepherd is a German breed of working dog of medium to large size",
+"maxLife": 13,
+"urlImage": "https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png"
+},
+{
+"name": "BullDog",
+"description": "The Bulldog is a British breed of dog of mastiff type. It may also be known as the English Bulldog or British Bulldog",
+"maxLife": 10,
+"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/1200px-Bulldog_inglese.jpg"
+},
+{
+"name": "Labrador Retriever",
+"description": "The Labrador Retriever or simply Labrador, is a British breed of retriever gun dog. It was developed in the United Kingdom from fishing dogs",
+"maxLife": 12,
+"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Labrador_Retriever_%281210559%29.jpg/1200px-Labrador_Retriever_%281210559%29.jpg"
+},
+{
+"name": "Golden Retriever",
+"description": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat",
+"maxLife": 12,
+"urlImage": "https://t1.ea.ltmcdn.com/es/posts/1/6/2/10_curiosidades_del_golden_retriever_21261_600.jpg"
+},
+{
+"name": "French Bulldog",
+"description": "The French Bulldog, French: Bouledogue Français, is a French breed of companion dog or toy dog",
+"maxLife": 12,
+"urlImage": "https://cdn.britannica.com/44/233844-050-A0F9F39C/French-bulldog.jpg"
+},
+{
+"name": "Siberian Husky",
+"description": "The Siberian Husky is a medium-sized working sled dog breed. The breed belongs to the Spitz genetic family",
+"maxLife": 15,
+"urlImage": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg"
+},
+{
+"name": "Alaskan Malamute",
+"description": "The Alaskan Malamute is a large breed of dog that was originally bred for its strength and endurance to haul heavy freight as a sled dog and hound.",
+"maxLife": 14,
+"urlImage": "https://cdn.britannica.com/02/236302-050-E1F61BB1/Alaskan-Malamute-sled-dog.jpg"
+},
+{
+"name": "Poodle",
+"description": "The Poodle, called the Pudel in German and the Caniche in French, is a breed of water dog.",
+"maxLife": 15,
+"urlImage": "https://image.petmd.com/files/styles/863x625/public/2023-01/toy-poodle.jpg"
+},
+{
+"name": "Chihuaua",
+"description": "The Chihuahua or Spanish: Chihuahueño is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is among the smallest of all dog breeds",
+"maxLife": 20,
+"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Degaen.jpg/320px-Degaen.jpg"
+},
+{
+"name": "Border Collie",
+"description": "The Border Collie is a breed of herding dog of medium size. Widely considered to be the most intelligent dog breed",
+"maxLife": 19,
+"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/320px-Border_Collie_600.jpg"
+}
+]
+
 
 
 

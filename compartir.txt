@@ -294,6 +294,13 @@ Día 7
 
 
 
+-----------------------------------
+
+Día 8
+
+-*-*-*enlaces API Pipes-*-*-*
+https://angular.io/api?type=pipe
+
 
 
 

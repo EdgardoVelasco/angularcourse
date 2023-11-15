@@ -302,6 +302,31 @@ Día 8
 https://angular.io/api?type=pipe
 
 
+#-*-*-*-*Html de formulario-*-*-*-
+<nav class="navbar bg-black">
+  <div class="container-fluid">
+    <a class="navbar-brand" style="color: aliceblue;">Citibanamex</a>
+  </div>
+</nav>
+
+<br>
+<div class="container-sm bg-success" style="width: 500px;">
+  <form style="margin-left: 15%; padding: 20px;">
+    <div class="mb-3">
+      <input type="text" class="form-control"  placeholder="nombre">
+    </div>
+
+    <div class="mb-3">
+     <input type="number" class="form-control"  placeholder="edad">
+    </div>
+
+    <div class="mb-3">
+      <input type="email" class="form-control"  placeholder="correo">
+    </div>
+
+    <button class="btn btn-primary" type="submit">Registrar</button>
+  </form>
+</div>
 
 
 

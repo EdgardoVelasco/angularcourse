@@ -336,6 +336,34 @@ Día 9
 URL para proyecto
 https://restcountries.com
 
+--------------------------------------------------
+
+Instrucciones para la entrega del proyecto
+
+1. La fecha máxima de entrega es el 24 de noviembre del 2023
+
+2. El proyecto entregarlo usando github, pueden crear una cuenta gratuita aquí:
+https://github.com/pricing
+
+3. Crear un repositorio en github: Seguir las siguientes instrucciones
+https://docs.github.com/es/get-started/quickstart/create-a-repo
+
+4. Para cargar su proyecto seguir las siguientes instrucciones
+https://docs.github.com/es/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+
+
+5. Enviar el correo con el enlace de su repositorio con la siguiente información:
+
+Correo: edgardo.velasco@netec.com
+Subject: <Nombre Alumno Completo> Proyecto Angular Essentials
+
+
+
+
+
+
+
+
 
 
 

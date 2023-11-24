@@ -365,6 +365,35 @@ https://github.com/EdgardoVelasco/solucionPregunta
 
 
 
+Deploy app angular docker nginx
+
+ng build
+
+--------------
+Código de la imágen
+FROM nginx:1.24
+COPY dist . 
+EXPOSE 80
+
+Guarde la imágen como Dockerfile
+
+para construir use el comando
+docker build -t nombre:v1 /rutadeldockerfile
+
+
+Para ejecutar use el siguiente comando
+docker run -p 80:80 --name prueba -d nombre y versión de imagen
+
+
+
+
+
+
+
+
+
+
+
 
 
 

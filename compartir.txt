@@ -372,7 +372,7 @@ ng build
 --------------
 Código de la imágen
 FROM nginx:1.24
-COPY dist . 
+COPY ./dist/ /usr/share/nginx/html 
 EXPOSE 80
 
 Guarde la imágen como Dockerfile
